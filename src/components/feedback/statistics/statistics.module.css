@@ -1,0 +1,15 @@
+.message{
+    margin: 0;
+}
+.statistics__titile{
+    margin: 0;
+    margin-bottom: 30px;
+}
+.statistics__list{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
